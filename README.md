@@ -22,9 +22,22 @@ Robotics Laboratory 4 Term Project.
 ## MFC UI
 ![MFC UI](https://user-images.githubusercontent.com/54669783/109646614-c29abc00-7b9b-11eb-8282-a2e746ce77b9.png)
 
-## Project GIF  
+## Project GIF (Simulation)
 
+1. Forward Kinematics 
+![Forward](https://user-images.githubusercontent.com/54669783/109646259-515b0900-7b9b-11eb-95c3-a0e34038876a.gif)
 
+2. Inverse Kinematics
+![Inverse](https://user-images.githubusercontent.com/54669783/109646175-312b4a00-7b9b-11eb-8c7b-86e9e6f55060.gif)
+
+3. Target Position에 수렴 
+![Target-Position](https://user-images.githubusercontent.com/54669783/109646195-39838500-7b9b-11eb-84f2-f2cd8945021f.gif)
+
+4. Torque Control
+![Torque-Control](https://user-images.githubusercontent.com/54669783/109646219-42745680-7b9b-11eb-8f94-edfe41c72047.gif)
+
+5. 외란에도 Target Position에 수렴
+![disturbance](https://user-images.githubusercontent.com/54669783/109646251-4e601880-7b9b-11eb-9ec9-ec5086c3338b.gif)
 
 
 
