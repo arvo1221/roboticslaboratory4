@@ -1,5 +1,6 @@
 # roboticslaboratory4
 Robotics Laboratory 4 Term Project.
+참가인원 : 16 남인수, 16 이동규, 16 최승완, 16 함병일
 
 ## Project Goal  
 1. MFC를 통해 Atmega128과 Serial 통신하며, UI를 통해 Motor의 Torque, Velocity, Position Control을 한다.
@@ -24,19 +25,19 @@ Robotics Laboratory 4 Term Project.
 
 ## Project GIF (Simulation)
 
-1. Forward Kinematics 
+1. Forward Kinematics (Joint Angle : (180, 0) -> Position : (-2, 0, 0))
 <img src="https://user-images.githubusercontent.com/54669783/109646259-515b0900-7b9b-11eb-95c3-a0e34038876a.gif" width="800" height="400" /> 
 
-2. Inverse Kinematics
-<img src="https://user-images.githubusercontent.com/54669783/109646175-312b4a00-7b9b-11eb-8c7b-86e9e6f55060.gif" width="800" height="400" /> 
+2. Inverse Kinematics (Position : (0, 2, 0) -> Joint Angle : (90, 0))
+<img src="https://user-images.githubusercontent.com/54669783/109689727-f17b5700-7bc8-11eb-8135-dcb28aae99fc.gif" width="800" height="400" /> 
 
-3. Target Position에 수렴 (Target Position)
+3. Target Position에 수렴 (Target Position : 0 degree -> 90 degree)
 <img src="https://user-images.githubusercontent.com/54669783/109646195-39838500-7b9b-11eb-84f2-f2cd8945021f.gif" width="800" height="400" /> 
 
 4. Torque Saturation (0.05 -> 0.01)
 <img src="https://user-images.githubusercontent.com/54669783/109646219-42745680-7b9b-11eb-8f94-edfe41c72047.gif" width="800" height="400" /> 
 
-5. 외란에도 Target Position에 수렴 (Target Position)
+5. 외란에도 Target Position에 수렴 (Target Position : (90, 0))
 <img src="https://user-images.githubusercontent.com/54669783/109646251-4e601880-7b9b-11eb-9ec9-ec5086c3338b.gif" width="800" height="400" /> 
 
 
