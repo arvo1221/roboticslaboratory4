@@ -33,7 +33,7 @@ Robotics Laboratory 4 Term Project.
 3. Target Position에 수렴 
 <img src="https://user-images.githubusercontent.com/54669783/109646195-39838500-7b9b-11eb-84f2-f2cd8945021f.gif" width="800" height="400" /> 
 
-4. Torque Control
+4. Torque Saturation
 <img src="https://user-images.githubusercontent.com/54669783/109646219-42745680-7b9b-11eb-8f94-edfe41c72047.gif" width="800" height="400" /> 
 
 5. 외란에도 Target Position에 수렴
@@ -45,10 +45,10 @@ Robotics Laboratory 4 Term Project.
 1. Target Position Set
 <img src="https://user-images.githubusercontent.com/54669783/109646235-486a3780-7b9b-11eb-80da-80311555f551.gif" width="400" height="800" /> 
 
-2. Position Control
+2. 외란에도 Target Position에 수렴
 <img src="https://user-images.githubusercontent.com/54669783/109646181-34bed100-7b9b-11eb-9826-0a52712673ee.gif" width="400" height="800" /> 
 
-3. Torque Control
+3. Torque Saturation
 <img src="https://user-images.githubusercontent.com/54669783/109646200-3c7e7580-7b9b-11eb-85c6-b19f5b112b95.gif" width="400" height="800" /> 
 
 
