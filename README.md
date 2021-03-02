@@ -37,7 +37,7 @@ Robotics Laboratory 4 Term Project.
 4. Torque Saturation (0.05 -> 0.01)
 <img src="https://user-images.githubusercontent.com/54669783/109646219-42745680-7b9b-11eb-8f94-edfe41c72047.gif" width="800" height="400" /> 
 
-5. 외란에도 Target Position에 수렴 (Target Position : (90, 0))
+5. 외란에도 Target Position에 수렴 (Target Position : (180, 0))
 <img src="https://user-images.githubusercontent.com/54669783/109646251-4e601880-7b9b-11eb-9ec9-ec5086c3338b.gif" width="800" height="400" /> 
 
 
