@@ -17,8 +17,11 @@ Robotics Laboratory 4 Term Project.
 2. Atmega128 : C
   
 ## System Architecture
-<img src=" " width="800" height="500" />  
+<img src="https://user-images.githubusercontent.com/54669783/109646380-78193f80-7b9b-11eb-925d-1b01e448e1ac.png" width="800" height="500" />  
     
+## MFC UI
+<img src="https://user-images.githubusercontent.com/54669783/109646614-c29abc00-7b9b-11eb-8282-a2e746ce77b9.png" width="800" height="500" />  
+
 ## Project GIF  
 
 
