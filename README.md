@@ -30,13 +30,13 @@ Robotics Laboratory 4 Term Project.
 2. Inverse Kinematics
 <img src="https://user-images.githubusercontent.com/54669783/109646175-312b4a00-7b9b-11eb-8c7b-86e9e6f55060.gif" width="800" height="400" /> 
 
-3. Target Position에 수렴 
+3. Target Position에 수렴 (Target Position)
 <img src="https://user-images.githubusercontent.com/54669783/109646195-39838500-7b9b-11eb-84f2-f2cd8945021f.gif" width="800" height="400" /> 
 
-4. Torque Saturation
+4. Torque Saturation (0.05 -> 0.01)
 <img src="https://user-images.githubusercontent.com/54669783/109646219-42745680-7b9b-11eb-8f94-edfe41c72047.gif" width="800" height="400" /> 
 
-5. 외란에도 Target Position에 수렴
+5. 외란에도 Target Position에 수렴 (Target Position)
 <img src="https://user-images.githubusercontent.com/54669783/109646251-4e601880-7b9b-11eb-9ec9-ec5086c3338b.gif" width="800" height="400" /> 
 
 
