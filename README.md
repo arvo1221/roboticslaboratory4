@@ -25,7 +25,7 @@ Robotics Laboratory 4 Term Project.
 ## Project GIF (Simulation)
 
 1. Forward Kinematics 
-![Forward](https://user-images.githubusercontent.com/54669783/109646259-515b0900-7b9b-11eb-95c3-a0e34038876a.gif)
+<img src="https://user-images.githubusercontent.com/54669783/109646259-515b0900-7b9b-11eb-95c3-a0e34038876a.gif" width="800" height="400" /> 
 
 2. Inverse Kinematics
 ![Inverse](https://user-images.githubusercontent.com/54669783/109646175-312b4a00-7b9b-11eb-8c7b-86e9e6f55060.gif)
