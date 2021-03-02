@@ -39,6 +39,16 @@ Robotics Laboratory 4 Term Project.
 5. 외란에도 Target Position에 수렴
 ![disturbance](https://user-images.githubusercontent.com/54669783/109646251-4e601880-7b9b-11eb-9ec9-ec5086c3338b.gif)
 
+## Project GIF (HardWare)
+
+1. Target Position Set
+![실제-모델에-적용](https://user-images.githubusercontent.com/54669783/109646235-486a3780-7b9b-11eb-80da-80311555f551.gif)
+
+2. Position Control
+![Position-Con](https://user-images.githubusercontent.com/54669783/109646181-34bed100-7b9b-11eb-9826-0a52712673ee.gif)
+
+3. Torque Control
+![Torque-Con](https://user-images.githubusercontent.com/54669783/109646200-3c7e7580-7b9b-11eb-85c6-b19f5b112b95.gif)
 
 
 
