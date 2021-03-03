@@ -25,31 +25,28 @@ Robotics Laboratory 4 Term Project.
 
 ## Project GIF (Simulation)
 
-1. Forward Kinematics (Joint Angle : (180, 0) -> Position : (-2, 0, 0))
+1. Forward Kinematics (Joint Angle[degree] : (180, 0) -> Position[m] : (-2, 0, 0))
 <img src="https://user-images.githubusercontent.com/54669783/109646259-515b0900-7b9b-11eb-95c3-a0e34038876a.gif" width="800" height="400" /> 
 
-2. Inverse Kinematics (Position : (0, 2, 0) -> Joint Angle : (90, 0))
+2. Inverse Kinematics (Position[m] : (0, 2, 0) -> Joint Angle[degree] : (90, 0))
 <img src="https://user-images.githubusercontent.com/54669783/109689727-f17b5700-7bc8-11eb-8135-dcb28aae99fc.gif" width="800" height="400" /> 
 
 3. Target Position에 수렴 (Target Position : 0 degree -> 90 degree)
 <img src="https://user-images.githubusercontent.com/54669783/109646195-39838500-7b9b-11eb-84f2-f2cd8945021f.gif" width="800" height="400" /> 
 
-4. Torque Saturation (0.05 -> 0.01)
+4. Torque Saturation (0.05 -> 0.01[Nm])
 <img src="https://user-images.githubusercontent.com/54669783/109646219-42745680-7b9b-11eb-8f94-edfe41c72047.gif" width="800" height="400" /> 
 
-5. 외란에도 Target Position에 수렴 (Target Position : (180, 0))
+5. 외란을 입력하여 Saturation 검증 (Target Position : (180, 0))
 <img src="https://user-images.githubusercontent.com/54669783/109646251-4e601880-7b9b-11eb-9ec9-ec5086c3338b.gif" width="800" height="400" /> 
 
 
 ## Project GIF (HardWare)
 
-1. Target Position Set
 <img src="https://user-images.githubusercontent.com/54669783/109646235-486a3780-7b9b-11eb-80da-80311555f551.gif" width="400" height="800" /> 
 
-2. 외란에도 Target Position에 수렴
 <img src="https://user-images.githubusercontent.com/54669783/109646181-34bed100-7b9b-11eb-9826-0a52712673ee.gif" width="400" height="800" /> 
 
-3. Torque Saturation
 <img src="https://user-images.githubusercontent.com/54669783/109646200-3c7e7580-7b9b-11eb-85c6-b19f5b112b95.gif" width="400" height="800" /> 
 
 
