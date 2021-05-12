@@ -14,7 +14,7 @@ Robotics Laboratory 4 Term Project.
 
   
 ## Using Language  
-1. MFC : C++
+1. MFC : C++ 
 2. Atmega128 : C
   
 ## System Architecture
